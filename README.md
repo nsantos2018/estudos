@@ -1,0 +1,3 @@
+# estudos
+
+documento apenas para estudos...
